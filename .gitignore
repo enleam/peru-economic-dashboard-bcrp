@@ -1,0 +1,45 @@
+# Entorno virtual de Python
+.venv/
+venv/
+env/
+
+# Caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Configuración local
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Bases de datos locales
+*.db
+*.sqlite
+*.sqlite3
+
+# Datos crudos e intermedios
+data/bronze/*
+data/silver/*
+
+# Mantener estructura de carpetas vacías
+!data/bronze/.gitkeep
+!data/silver/.gitkeep
+!data/gold/.gitkeep
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Configuración local de Visual Studio Code
+.vscode/
+
+# Archivos temporales
+*.tmp
+*.bak
+*.swp
