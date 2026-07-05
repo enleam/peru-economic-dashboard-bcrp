@@ -64,7 +64,7 @@ def convertir_periodo_a_fecha(periodo: str) -> pd.Timestamp:
     """
     Convierte periodos del BCRP a fecha.
 
-    Ejemplos posibles:
+    Ejemplos:
     Ene.2020
     Feb.2021
     Mar.2022
@@ -89,7 +89,7 @@ def convertir_periodo_a_fecha(periodo: str) -> pd.Timestamp:
 def convertir_valor(valor):
     """
     Convierte valores del BCRP a número decimal.
-    Maneja valores vacíos o no disponibles.
+    Maneja valores vacíos, coma decimal y punto decimal.
     """
     if valor is None:
         return None
@@ -99,8 +99,21 @@ def convertir_valor(valor):
     if valor in ["", "n.d.", "ND", "N.D.", "-"]:
         return None
 
+    # Caso común del BCRP con coma decimal: 3,303291
+    if "," in valor and "." not in valor:
+        valor = valor.replace(",", ".")
+
+    # Caso con separadores de miles y decimales
+    elif "," in valor and "." in valor:
+        # Ejemplo: 1.234,56
+        if valor.rfind(",") > valor.rfind("."):
+            valor = valor.replace(".", "").replace(",", ".")
+        # Ejemplo: 1,234.56
+        else:
+            valor = valor.replace(",", "")
+
     try:
-        return float(valor.replace(",", ""))
+        return float(valor)
     except ValueError:
         return None
 
@@ -118,7 +131,9 @@ def transformar_json_a_dataframe(data: dict) -> pd.DataFrame:
     if not periods:
         raise ValueError("El JSON no contiene periodos.")
 
-    codigos_series = [serie["name"] for serie in series]
+    # Usamos los códigos reales según el orden solicitado en extract.py.
+    # Esto evita que codigo_indicador tome el nombre largo de la serie.
+    codigos_series = list(NOMBRES_INDICADORES.keys())
 
     registros = []
 

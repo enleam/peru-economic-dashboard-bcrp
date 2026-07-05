@@ -1,391 +1,391 @@
 ﻿fecha_id,indicador_id,codigo_indicador,fecha,anio,mes,trimestre,valor
-20200101,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2020-01-01,2020,1,T1,3.30328579210706
-20200201,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2020-02-01,2020,2,T1,4.57990369607169
-20200301,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2020-03-01,2020,3,T1,-17.6060068593198
-20200401,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2020-04-01,2020,4,T2,-39.276985716532
-20200501,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2020-05-01,2020,5,T2,-32.727246502532
-20200601,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2020-06-01,2020,6,T2,-18.1034455760272
-20200701,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2020-07-01,2020,7,T3,-11.0192247908879
-20200801,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2020-08-01,2020,8,T3,-9.1655146146572
-20200901,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2020-09-01,2020,9,T3,-5.86720943430298
-20201001,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2020-10-01,2020,10,T4,-3.25483448382076
-20201101,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2020-11-01,2020,11,T4,-2.10701610176808
-20201201,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2020-12-01,2020,12,T4,1.03032310851424
-20210101,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2021-01-01,2021,1,T1,-0.997341320021622
-20210201,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2021-02-01,2021,2,T1,-3.82132610746839
-20210301,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2021-03-01,2021,3,T1,19.8682137808316
-20210401,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2021-04-01,2021,4,T2,59.8947623291564
-20210501,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2021-05-01,2021,5,T2,48.5993221115384
-20210601,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2021-06-01,2021,6,T2,23.4110933239464
-20210701,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2021-07-01,2021,7,T3,13.3172829771082
-20210801,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2021-08-01,2021,8,T3,12.0115996029552
-20210901,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2021-09-01,2021,9,T3,10.0310469174935
-20211001,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2021-10-01,2021,10,T4,4.76941227826566
-20211101,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2021-11-01,2021,11,T4,3.75939452387283
-20211201,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2021-12-01,2021,12,T4,2.03857895343596
-20220101,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2022-01-01,2022,1,T1,3.07233820894321
-20220201,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2022-02-01,2022,2,T1,4.84817141819692
-20220301,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2022-03-01,2022,3,T1,3.90609081039353
-20220401,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2022-04-01,2022,4,T2,4.05956735448008
-20220501,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2022-05-01,2022,5,T2,2.55561245088643
-20220601,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2022-06-01,2022,6,T2,3.73340672963062
-20220701,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2022-07-01,2022,7,T3,1.99929995548116
-20220801,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2022-08-01,2022,8,T3,2.00923450710866
-20220901,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2022-09-01,2022,9,T3,2.1575485636082
-20221001,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2022-10-01,2022,10,T4,2.60004901094656
-20221101,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2022-11-01,2022,11,T4,2.19611119378252
-20221201,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2022-12-01,2022,12,T4,1.28549481803624
-20230101,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2023-01-01,2023,1,T1,-0.57827332938386
-20230201,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2023-02-01,2023,2,T1,-0.349595705654184
-20230301,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2023-03-01,2023,3,T1,0.832314576504402
-20230401,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2023-04-01,2023,4,T2,0.691224584296832
-20230501,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2023-05-01,2023,5,T2,-1.17093071981193
-20230601,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2023-06-01,2023,6,T2,-0.695984429638633
-20230701,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2023-07-01,2023,7,T3,-1.01583755810768
-20230801,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2023-08-01,2023,8,T3,0.0614750474334791
-20230901,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2023-09-01,2023,9,T3,-0.906756202466222
-20231001,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2023-10-01,2023,10,T4,-0.682307691141691
-20231101,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2023-11-01,2023,11,T4,0.701153437700412
-20231201,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2023-12-01,2023,12,T4,-0.945679280085103
-20240101,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2024-01-01,2024,1,T1,1.83097461976354
-20240201,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2024-02-01,2024,2,T1,3.16241000807473
-20240301,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2024-03-01,2024,3,T1,-0.409690120959002
-20240401,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2024-04-01,2024,4,T2,5.52986981371346
-20240501,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2024-05-01,2024,5,T2,5.70691310837814
-20240601,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2024-06-01,2024,6,T2,0.370585322038706
-20240701,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2024-07-01,2024,7,T3,4.85868197288225
-20240801,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2024-08-01,2024,8,T3,3.97028100948149
-20240901,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2024-09-01,2024,9,T3,3.49053235679599
-20241001,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2024-10-01,2024,10,T4,3.83110341773776
-20241101,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2024-11-01,2024,11,T4,4.38200682962149
-20241201,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2024-12-01,2024,12,T4,5.06622215564914
-20250101,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2025-01-01,2025,1,T1,4.41262088599568
-20250201,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2025-02-01,2025,2,T1,2.92933006009058
-20250301,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2025-03-01,2025,3,T1,4.79463896734591
-20250401,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2025-04-01,2025,4,T2,1.38779863585964
-20250501,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2025-05-01,2025,5,T2,2.30761759528941
-20250601,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2025-06-01,2025,6,T2,4.89663045192383
-20250701,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2025-07-01,2025,7,T3,3.57711849445283
-20250801,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2025-08-01,2025,8,T3,3.26905133539782
-20250901,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2025-09-01,2025,9,T3,4.45219309609595
-20251001,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2025-10-01,2025,10,T4,4.06273582845768
-20251101,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2025-11-01,2025,11,T4,1.57061772802405
-20251201,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2025-12-01,2025,12,T4,3.83217007992646
-20260101,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2026-01-01,2026,1,T1,3.66627706987421
-20260201,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2026-02-01,2026,2,T1,3.71055925630505
-20260301,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2026-03-01,2026,3,T1,3.21376281023424
-20260401,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2026-04-01,2026,4,T2,3.72734991620123
-20260501,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2026-05-01,2026,5,T2,
-20260601,1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,2026-06-01,2026,6,T2,
-20200101,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2020-01-01,2020,1,T1,2.25
-20200201,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2020-02-01,2020,2,T1,2.25
-20200301,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2020-03-01,2020,3,T1,1.25
-20200401,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2020-04-01,2020,4,T2,0.25
-20200501,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2020-05-01,2020,5,T2,0.25
-20200601,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2020-06-01,2020,6,T2,0.25
-20200701,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2020-07-01,2020,7,T3,0.25
-20200801,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2020-08-01,2020,8,T3,0.25
-20200901,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2020-09-01,2020,9,T3,0.25
-20201001,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2020-10-01,2020,10,T4,0.25
-20201101,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2020-11-01,2020,11,T4,0.25
-20201201,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2020-12-01,2020,12,T4,0.25
-20210101,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2021-01-01,2021,1,T1,0.25
-20210201,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2021-02-01,2021,2,T1,0.25
-20210301,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2021-03-01,2021,3,T1,0.25
-20210401,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2021-04-01,2021,4,T2,0.25
-20210501,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2021-05-01,2021,5,T2,0.25
-20210601,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2021-06-01,2021,6,T2,0.25
-20210701,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2021-07-01,2021,7,T3,0.25
-20210801,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2021-08-01,2021,8,T3,0.5
-20210901,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2021-09-01,2021,9,T3,1.0
-20211001,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2021-10-01,2021,10,T4,1.5
-20211101,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2021-11-01,2021,11,T4,2.0
-20211201,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2021-12-01,2021,12,T4,2.5
-20220101,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2022-01-01,2022,1,T1,3.0
-20220201,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2022-02-01,2022,2,T1,3.5
-20220301,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2022-03-01,2022,3,T1,4.0
-20220401,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2022-04-01,2022,4,T2,4.5
-20220501,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2022-05-01,2022,5,T2,5.0
-20220601,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2022-06-01,2022,6,T2,5.5
-20220701,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2022-07-01,2022,7,T3,6.0
-20220801,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2022-08-01,2022,8,T3,6.5
-20220901,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2022-09-01,2022,9,T3,6.75
-20221001,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2022-10-01,2022,10,T4,7.0
-20221101,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2022-11-01,2022,11,T4,7.25
-20221201,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2022-12-01,2022,12,T4,7.5
-20230101,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2023-01-01,2023,1,T1,7.75
-20230201,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2023-02-01,2023,2,T1,7.75
-20230301,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2023-03-01,2023,3,T1,7.75
-20230401,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2023-04-01,2023,4,T2,7.75
-20230501,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2023-05-01,2023,5,T2,7.75
-20230601,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2023-06-01,2023,6,T2,7.75
-20230701,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2023-07-01,2023,7,T3,7.75
-20230801,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2023-08-01,2023,8,T3,7.75
-20230901,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2023-09-01,2023,9,T3,7.5
-20231001,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2023-10-01,2023,10,T4,7.25
-20231101,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2023-11-01,2023,11,T4,7.0
-20231201,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2023-12-01,2023,12,T4,6.75
-20240101,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2024-01-01,2024,1,T1,6.5
-20240201,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2024-02-01,2024,2,T1,6.25
-20240301,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2024-03-01,2024,3,T1,6.25
-20240401,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2024-04-01,2024,4,T2,6.0
-20240501,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2024-05-01,2024,5,T2,5.75
-20240601,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2024-06-01,2024,6,T2,5.75
-20240701,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2024-07-01,2024,7,T3,5.75
-20240801,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2024-08-01,2024,8,T3,5.5
-20240901,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2024-09-01,2024,9,T3,5.25
-20241001,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2024-10-01,2024,10,T4,5.25
-20241101,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2024-11-01,2024,11,T4,5.0
-20241201,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2024-12-01,2024,12,T4,5.0
-20250101,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2025-01-01,2025,1,T1,4.75
-20250201,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2025-02-01,2025,2,T1,4.75
-20250301,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2025-03-01,2025,3,T1,4.75
-20250401,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2025-04-01,2025,4,T2,4.75
-20250501,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2025-05-01,2025,5,T2,4.5
-20250601,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2025-06-01,2025,6,T2,4.5
-20250701,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2025-07-01,2025,7,T3,4.5
-20250801,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2025-08-01,2025,8,T3,4.5
-20250901,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2025-09-01,2025,9,T3,4.25
-20251001,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2025-10-01,2025,10,T4,4.25
-20251101,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2025-11-01,2025,11,T4,4.25
-20251201,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2025-12-01,2025,12,T4,4.25
-20260101,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2026-01-01,2026,1,T1,4.25
-20260201,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2026-02-01,2026,2,T1,4.25
-20260301,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2026-03-01,2026,3,T1,4.25
-20260401,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2026-04-01,2026,4,T2,4.25
-20260501,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2026-05-01,2026,5,T2,4.25
-20260601,2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,2026-06-01,2026,6,T2,4.25
-20200101,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2020-01-01,2020,1,T1,3.32869090909091
-20200201,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2020-02-01,2020,2,T1,3.39216
-20200301,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2020-03-01,2020,3,T1,3.49474090909091
-20200401,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2020-04-01,2020,4,T2,3.400795
-20200501,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2020-05-01,2020,5,T2,3.42355
-20200601,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2020-06-01,2020,6,T2,3.4724
-20200701,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2020-07-01,2020,7,T3,3.51863181818182
-20200801,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2020-08-01,2020,8,T3,3.56547619047619
-20200901,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2020-09-01,2020,9,T3,3.55649545454546
-20201001,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2020-10-01,2020,10,T4,3.59712272727273
-20201101,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2020-11-01,2020,11,T4,3.61011904761905
-20201201,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2020-12-01,2020,12,T4,3.60415714285714
-20210101,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2021-01-01,2021,1,T1,3.62586
-20210201,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2021-02-01,2021,2,T1,3.646365
-20210301,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2021-03-01,2021,3,T1,3.71102173913043
-20210401,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2021-04-01,2021,4,T2,3.701585
-20210501,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2021-05-01,2021,5,T2,3.77585238095238
-20210601,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2021-06-01,2021,6,T2,3.91391904761905
-20210701,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2021-07-01,2021,7,T3,3.944495
-20210801,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2021-08-01,2021,8,T3,4.08889523809524
-20210901,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2021-09-01,2021,9,T3,4.10893181818182
-20211001,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2021-10-01,2021,10,T4,4.015
-20211101,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2021-11-01,2021,11,T4,4.02166190476191
-20211201,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2021-12-01,2021,12,T4,4.03878636363636
-20220101,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2022-01-01,2022,1,T1,3.8898
-20220201,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2022-02-01,2022,2,T1,3.79376
-20220301,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2022-03-01,2022,3,T1,3.7408
-20220401,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2022-04-01,2022,4,T2,3.7433
-20220501,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2022-05-01,2022,5,T2,3.75959090909091
-20220601,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2022-06-01,2022,6,T2,3.75017619047619
-20220701,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2022-07-01,2022,7,T3,3.90534210526316
-20220801,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2022-08-01,2022,8,T3,3.87566363636364
-20220901,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2022-09-01,2022,9,T3,3.90151363636364
-20221001,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2022-10-01,2022,10,T4,3.98063333333333
-20221101,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2022-11-01,2022,11,T4,3.87850476190476
-20221201,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2022-12-01,2022,12,T4,3.83176
-20230101,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2023-01-01,2023,1,T1,3.83604761904762
-20230201,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2023-02-01,2023,2,T1,3.84237
-20230301,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2023-03-01,2023,3,T1,3.78063043478261
-20230401,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2023-04-01,2023,4,T2,3.76597222222222
-20230501,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2023-05-01,2023,5,T2,3.68984545454545
-20230601,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2023-06-01,2023,6,T2,3.65203333333333
-20230701,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2023-07-01,2023,7,T3,3.602405
-20230801,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2023-08-01,2023,8,T3,3.69844545454545
-20230901,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2023-09-01,2023,9,T3,3.73200952380952
-20231001,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2023-10-01,2023,10,T4,3.84701363636364
-20231101,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2023-11-01,2023,11,T4,3.76209523809524
-20231201,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2023-12-01,2023,12,T4,3.73508947368421
-20240101,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2024-01-01,2024,1,T1,3.74190952380952
-20240201,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2024-02-01,2024,2,T1,3.82895238095238
-20240301,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2024-03-01,2024,3,T1,3.71003684210526
-20240401,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2024-04-01,2024,4,T2,3.7167
-20240501,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2024-05-01,2024,5,T2,3.73287727272727
-20240601,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2024-06-01,2024,6,T2,3.78837894736842
-20240701,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2024-07-01,2024,7,T3,3.76611
-20240801,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2024-08-01,2024,8,T3,3.742925
-20240901,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2024-09-01,2024,9,T3,3.76989523809524
-20241001,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2024-10-01,2024,10,T4,3.75581363636364
-20241101,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2024-11-01,2024,11,T4,3.780265
-20241201,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2024-12-01,2024,12,T4,3.73655789473684
-20250101,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2025-01-01,2025,1,T1,3.74825454545455
-20250201,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2025-02-01,2025,2,T1,3.69817
-20250301,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2025-03-01,2025,3,T1,3.65344761904762
-20250401,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2025-04-01,2025,4,T2,3.70126
-20250501,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2025-05-01,2025,5,T2,3.66086190476191
-20250601,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2025-06-01,2025,6,T2,3.60388571428572
-20250701,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2025-07-01,2025,7,T3,3.557945
-20250801,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2025-08-01,2025,8,T3,3.54367
-20250901,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2025-09-01,2025,9,T3,3.50311818181818
-20251001,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2025-10-01,2025,10,T4,3.41502727272727
-20251101,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2025-11-01,2025,11,T4,3.373755
-20251201,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2025-12-01,2025,12,T4,3.36778947368421
-20260101,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2026-01-01,2026,1,T1,3.357325
-20260201,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2026-02-01,2026,2,T1,3.357735
-20260301,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2026-03-01,2026,3,T1,3.45155
-20260401,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2026-04-01,2026,4,T2,3.45384
-20260501,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2026-05-01,2026,5,T2,3.439455
-20260601,3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,2026-06-01,2026,6,T2,3.40863333333333
-20200101,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2020-01-01,2020,1,T1,1.88835605229068
-20200201,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2020-02-01,2020,2,T1,1.90403776113918
-20200301,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2020-03-01,2020,3,T1,1.82153296943842
-20200401,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2020-04-01,2020,4,T2,1.72448975655499
-20200501,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2020-05-01,2020,5,T2,1.7819197522911
-20200601,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2020-06-01,2020,6,T2,1.59873239164688
-20200701,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2020-07-01,2020,7,T3,1.8616957242678
-20200801,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2020-08-01,2020,8,T3,1.68739824186658
-20200901,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2020-09-01,2020,9,T3,1.81955390705632
-20201001,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2020-10-01,2020,10,T4,1.72400036113651
-20201101,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2020-11-01,2020,11,T4,2.14220969430481
-20201201,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2020-12-01,2020,12,T4,1.97323222946074
-20210101,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2021-01-01,2021,1,T1,2.67554538350913
-20210201,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2021-02-01,2021,2,T1,2.4013422122209
-20210301,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2021-03-01,2021,3,T1,2.59818523324116
-20210401,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2021-04-01,2021,4,T2,2.38369772363027
-20210501,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2021-05-01,2021,5,T2,2.44745902560864
-20210601,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2021-06-01,2021,6,T2,3.25460667105263
-20210701,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2021-07-01,2021,7,T3,3.81459906516264
-20210801,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2021-08-01,2021,8,T3,4.95280459648037
-20210901,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2021-09-01,2021,9,T3,5.22957455422953
-20211001,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2021-10-01,2021,10,T4,5.82600992647617
-20211101,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2021-11-01,2021,11,T4,5.65514784662318
-20211201,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2021-12-01,2021,12,T4,6.43038716340725
-20220101,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2022-01-01,2022,1,T1,5.68491659367423
-20220201,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2022-02-01,2022,2,T1,6.1470442223465
-20220301,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2022-03-01,2022,3,T1,6.82408900736014
-20220401,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2022-04-01,2022,4,T2,7.96465277256915
-20220501,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2022-05-01,2022,5,T2,8.09113893196794
-20220601,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2022-06-01,2022,6,T2,8.81263294388897
-20220701,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2022-07-01,2022,7,T3,8.74083491516008
-20220801,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2022-08-01,2022,8,T3,8.39798830340194
-20220901,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2022-09-01,2022,9,T3,8.52985253634929
-20221001,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2022-10-01,2022,10,T4,8.27519462737062
-20221101,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2022-11-01,2022,11,T4,8.44722980234022
-20221201,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2022-12-01,2022,12,T4,8.45916200000001
-20230101,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2023-01-01,2023,1,T1,8.66426700097408
-20230201,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2023-02-01,2023,2,T1,8.64592356025242
-20230301,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2023-03-01,2023,3,T1,8.40057400933134
-20230401,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2023-04-01,2023,4,T2,7.9650458305066
-20230501,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2023-05-01,2023,5,T2,7.89388564823743
-20230601,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2023-06-01,2023,6,T2,6.46149699198863
-20230701,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2023-07-01,2023,7,T3,5.88160145590039
-20230801,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2023-08-01,2023,8,T3,5.57614720330122
-20230901,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2023-09-01,2023,9,T3,5.04454594794186
-20231001,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2023-10-01,2023,10,T4,4.34308132283159
-20231101,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2023-11-01,2023,11,T4,3.63647512169549
-20231201,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2023-12-01,2023,12,T4,3.23738256432406
-20240101,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2024-01-01,2024,1,T1,3.02392174826855
-20240201,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2024-02-01,2024,2,T1,3.29406696032184
-20240301,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2024-03-01,2024,3,T1,3.04504592593905
-20240401,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2024-04-01,2024,4,T2,2.42207617792805
-20240501,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2024-05-01,2024,5,T2,2.00493835958688
-20240601,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2024-06-01,2024,6,T2,2.28538225698791
-20240701,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2024-07-01,2024,7,T3,2.1276637869709
-20240801,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2024-08-01,2024,8,T3,2.03409700303861
-20240901,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2024-09-01,2024,9,T3,1.77501053596859
-20241001,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2024-10-01,2024,10,T4,2.00918040984485
-20241101,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2024-11-01,2024,11,T4,2.27199072148831
-20241201,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2024-12-01,2024,12,T4,1.96630270142824
-20250101,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2025-01-01,2025,1,T1,1.85158283440667
-20250201,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2025-02-01,2025,2,T1,1.4773290589483
-20250301,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2025-03-01,2025,3,T1,1.27718026977924
-20250401,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2025-04-01,2025,4,T2,1.65183401740204
-20250501,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2025-05-01,2025,5,T2,1.68666289219268
-20250601,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2025-06-01,2025,6,T2,1.69370904576716
-20250701,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2025-07-01,2025,7,T3,1.6888009685144
-20250801,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2025-08-01,2025,8,T3,1.10633077531991
-20250901,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2025-09-01,2025,9,T3,1.35839342135424
-20251001,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2025-10-01,2025,10,T4,1.35177475650182
-20251101,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2025-11-01,2025,11,T4,1.36861256988846
-20251201,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2025-12-01,2025,12,T4,1.50879973918667
-20260101,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2026-01-01,2026,1,T1,1.70091694832201
-20260201,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2026-02-01,2026,2,T1,2.21416625767848
-20260301,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2026-03-01,2026,3,T1,3.80454581291585
-20260401,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2026-04-01,2026,4,T2,4.01414363472928
-20260501,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2026-05-01,2026,5,T2,3.90505240621645
-20260601,4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,2026-06-01,2026,6,T2,4.00890965651766
-20200101,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2020-01-01,2020,1,T1,0.0538080667322616
-20200201,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2020-02-01,2020,2,T1,0.142172034360178
-20200301,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2020-03-01,2020,3,T1,0.645999987966259
-20200401,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2020-04-01,2020,4,T2,0.104582684852522
-20200501,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2020-05-01,2020,5,T2,0.204153570879042
-20200601,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2020-06-01,2020,6,T2,-0.266096854987984
-20200701,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2020-07-01,2020,7,T3,0.462688397344215
-20200801,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2020-08-01,2020,8,T3,-0.110238965197723
-20200901,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2020-09-01,2020,9,T3,0.136353971354613
-20201001,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2020-10-01,2020,10,T4,0.0167755516523417
-20201101,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2020-11-01,2020,11,T4,0.520479581391504
-20201201,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2020-12-01,2020,12,T4,0.0487327395330378
-20210101,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2021-01-01,2021,1,T1,0.742901704166242
-20210201,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2021-02-01,2021,2,T1,-0.125265562868538
-20210301,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2021-03-01,2021,3,T1,0.839468767410369
-20210401,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2021-04-01,2021,4,T2,-0.104691802721501
-20210501,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2021-05-01,2021,5,T2,0.266557522263624
-20210601,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2021-06-01,2021,6,T2,0.51967163414861
-20210701,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2021-07-01,2021,7,T3,1.00753906510749
-20210801,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2021-08-01,2021,8,T3,0.98493531236659
-20210901,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2021-09-01,2021,9,T3,0.40042251687241
-20211001,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2021-10-01,2021,10,T4,0.58366506925955
-20211101,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2021-11-01,2021,11,T4,0.358183580426998
-20211201,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2021-12-01,2021,12,T4,0.782835268325123
-20220101,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2022-01-01,2022,1,T1,0.0372679999999974
-20220201,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2022-02-01,2022,2,T1,0.311455926605271
-20220301,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2022-03-01,2022,3,T1,1.48265988924236
-20220401,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2022-04-01,2022,4,T2,0.961893177341858
-20220501,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2022-05-01,2022,5,T2,0.384024966018986
-20220601,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2022-06-01,2022,6,T2,1.19062710636316
-20220701,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2022-07-01,2022,7,T3,0.940891085039107
-20220801,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2022-08-01,2022,8,T3,0.666542107665968
-20220901,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2022-09-01,2022,9,T3,0.522557852684368
-20221001,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2022-10-01,2022,10,T4,0.347652348101841
-20221101,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2022-11-01,2022,11,T4,0.517639656505263
-20221201,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2022-12-01,2022,12,T4,0.793924170395989
-20230101,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2023-01-01,2023,1,T1,0.226446521871514
-20230201,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2023-02-01,2023,2,T1,0.29452251053137
-20230301,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2023-03-01,2023,3,T1,1.25348677152025
-20230401,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2023-04-01,2023,4,T2,0.556251880069387
-20230501,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2023-05-01,2023,5,T2,0.31786146413237
-20230601,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2023-06-01,2023,6,T2,-0.152769746155551
-20230701,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2023-07-01,2023,7,T3,0.391066276983018
-20230801,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2023-08-01,2023,8,T3,0.376132603479856
-20230901,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2023-09-01,2023,9,T3,0.0164026333286269
-20231001,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2023-10-01,2023,10,T4,-0.322447443370826
-20231101,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2023-11-01,2023,11,T4,-0.163060842314584
-20231201,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2023-12-01,2023,12,T4,0.405777961086682
-20240101,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2024-01-01,2024,1,T1,0.0192113272793558
-20240201,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2024-02-01,2024,2,T1,0.557510800936321
-20240301,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2024-03-01,2024,3,T1,1.00938516188575
-20240401,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2024-04-01,2024,4,T2,-0.0516715997229469
-20240501,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2024-05-01,2024,5,T2,-0.0907064485030323
-20240601,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2024-06-01,2024,6,T2,0.121741927959431
-20240701,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2024-07-01,2024,7,T3,0.236268738691571
-20240801,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2024-08-01,2024,8,T3,0.284170528141876
-20240901,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2024-09-01,2024,9,T3,-0.237560474773851
-20241001,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2024-10-01,2024,10,T4,-0.0931035230159262
-20241101,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2024-11-01,2024,11,T4,0.0941530377317251
-20241201,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2024-12-01,2024,12,T4,0.105667996950954
-20250101,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2025-01-01,2025,1,T1,-0.0933179134509413
-20250201,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2025-02-01,2025,2,T1,0.188012094871704
-20250301,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2025-03-01,2025,3,T1,0.810159321766145
-20250401,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2025-04-01,2025,4,T2,0.31806633832046
-20250501,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2025-05-01,2025,5,T2,-0.0564746187563057
-20250601,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2025-06-01,2025,6,T2,0.128679643778829
-20250701,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2025-07-01,2025,7,T3,0.231431002364371
-20250801,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2025-08-01,2025,8,T3,-0.29025398690341
-20250901,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2025-09-01,2025,9,T3,0.0111517897177685
-20251001,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2025-10-01,2025,10,T4,-0.0996274056654658
-20251101,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2025-11-01,2025,11,T4,0.110781919406383
-20251201,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2025-12-01,2025,12,T4,0.244108583947482
-20260101,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2026-01-01,2026,1,T1,0.0957671016980487
-20260201,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2026-02-01,2026,2,T1,0.693626297343638
-20260301,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2026-03-01,2026,3,T1,2.37869353004195
-20260401,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2026-04-01,2026,4,T2,0.5206244057768
-20260501,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2026-05-01,2026,5,T2,-0.161296536091238
-20260601,5,Índice de precios Lima Metropolitana (var% mensual) - IPC,2026-06-01,2026,6,T2,0.228762258659176
+20200101,1,PD04722MM,2020-01-01,2020,1,T1,1.88835605229068
+20200201,1,PD04722MM,2020-02-01,2020,2,T1,1.90403776113918
+20200301,1,PD04722MM,2020-03-01,2020,3,T1,1.82153296943842
+20200401,1,PD04722MM,2020-04-01,2020,4,T2,1.72448975655499
+20200501,1,PD04722MM,2020-05-01,2020,5,T2,1.7819197522911
+20200601,1,PD04722MM,2020-06-01,2020,6,T2,1.59873239164688
+20200701,1,PD04722MM,2020-07-01,2020,7,T3,1.8616957242678
+20200801,1,PD04722MM,2020-08-01,2020,8,T3,1.68739824186658
+20200901,1,PD04722MM,2020-09-01,2020,9,T3,1.81955390705632
+20201001,1,PD04722MM,2020-10-01,2020,10,T4,1.72400036113651
+20201101,1,PD04722MM,2020-11-01,2020,11,T4,2.14220969430481
+20201201,1,PD04722MM,2020-12-01,2020,12,T4,1.97323222946074
+20210101,1,PD04722MM,2021-01-01,2021,1,T1,2.67554538350913
+20210201,1,PD04722MM,2021-02-01,2021,2,T1,2.4013422122209
+20210301,1,PD04722MM,2021-03-01,2021,3,T1,2.59818523324116
+20210401,1,PD04722MM,2021-04-01,2021,4,T2,2.38369772363027
+20210501,1,PD04722MM,2021-05-01,2021,5,T2,2.44745902560864
+20210601,1,PD04722MM,2021-06-01,2021,6,T2,3.25460667105263
+20210701,1,PD04722MM,2021-07-01,2021,7,T3,3.81459906516264
+20210801,1,PD04722MM,2021-08-01,2021,8,T3,4.95280459648037
+20210901,1,PD04722MM,2021-09-01,2021,9,T3,5.22957455422953
+20211001,1,PD04722MM,2021-10-01,2021,10,T4,5.82600992647617
+20211101,1,PD04722MM,2021-11-01,2021,11,T4,5.65514784662318
+20211201,1,PD04722MM,2021-12-01,2021,12,T4,6.43038716340725
+20220101,1,PD04722MM,2022-01-01,2022,1,T1,5.68491659367423
+20220201,1,PD04722MM,2022-02-01,2022,2,T1,6.1470442223465
+20220301,1,PD04722MM,2022-03-01,2022,3,T1,6.82408900736014
+20220401,1,PD04722MM,2022-04-01,2022,4,T2,7.96465277256915
+20220501,1,PD04722MM,2022-05-01,2022,5,T2,8.09113893196794
+20220601,1,PD04722MM,2022-06-01,2022,6,T2,8.81263294388897
+20220701,1,PD04722MM,2022-07-01,2022,7,T3,8.74083491516008
+20220801,1,PD04722MM,2022-08-01,2022,8,T3,8.39798830340194
+20220901,1,PD04722MM,2022-09-01,2022,9,T3,8.52985253634929
+20221001,1,PD04722MM,2022-10-01,2022,10,T4,8.27519462737062
+20221101,1,PD04722MM,2022-11-01,2022,11,T4,8.44722980234022
+20221201,1,PD04722MM,2022-12-01,2022,12,T4,8.45916200000001
+20230101,1,PD04722MM,2023-01-01,2023,1,T1,8.66426700097408
+20230201,1,PD04722MM,2023-02-01,2023,2,T1,8.64592356025242
+20230301,1,PD04722MM,2023-03-01,2023,3,T1,8.40057400933134
+20230401,1,PD04722MM,2023-04-01,2023,4,T2,7.9650458305066
+20230501,1,PD04722MM,2023-05-01,2023,5,T2,7.89388564823743
+20230601,1,PD04722MM,2023-06-01,2023,6,T2,6.46149699198863
+20230701,1,PD04722MM,2023-07-01,2023,7,T3,5.88160145590039
+20230801,1,PD04722MM,2023-08-01,2023,8,T3,5.57614720330122
+20230901,1,PD04722MM,2023-09-01,2023,9,T3,5.04454594794186
+20231001,1,PD04722MM,2023-10-01,2023,10,T4,4.34308132283159
+20231101,1,PD04722MM,2023-11-01,2023,11,T4,3.63647512169549
+20231201,1,PD04722MM,2023-12-01,2023,12,T4,3.23738256432406
+20240101,1,PD04722MM,2024-01-01,2024,1,T1,3.02392174826855
+20240201,1,PD04722MM,2024-02-01,2024,2,T1,3.29406696032184
+20240301,1,PD04722MM,2024-03-01,2024,3,T1,3.04504592593905
+20240401,1,PD04722MM,2024-04-01,2024,4,T2,2.42207617792805
+20240501,1,PD04722MM,2024-05-01,2024,5,T2,2.00493835958688
+20240601,1,PD04722MM,2024-06-01,2024,6,T2,2.28538225698791
+20240701,1,PD04722MM,2024-07-01,2024,7,T3,2.1276637869709
+20240801,1,PD04722MM,2024-08-01,2024,8,T3,2.03409700303861
+20240901,1,PD04722MM,2024-09-01,2024,9,T3,1.77501053596859
+20241001,1,PD04722MM,2024-10-01,2024,10,T4,2.00918040984485
+20241101,1,PD04722MM,2024-11-01,2024,11,T4,2.27199072148831
+20241201,1,PD04722MM,2024-12-01,2024,12,T4,1.96630270142824
+20250101,1,PD04722MM,2025-01-01,2025,1,T1,1.85158283440667
+20250201,1,PD04722MM,2025-02-01,2025,2,T1,1.4773290589483
+20250301,1,PD04722MM,2025-03-01,2025,3,T1,1.27718026977924
+20250401,1,PD04722MM,2025-04-01,2025,4,T2,1.65183401740204
+20250501,1,PD04722MM,2025-05-01,2025,5,T2,1.68666289219268
+20250601,1,PD04722MM,2025-06-01,2025,6,T2,1.69370904576716
+20250701,1,PD04722MM,2025-07-01,2025,7,T3,1.6888009685144
+20250801,1,PD04722MM,2025-08-01,2025,8,T3,1.10633077531991
+20250901,1,PD04722MM,2025-09-01,2025,9,T3,1.35839342135424
+20251001,1,PD04722MM,2025-10-01,2025,10,T4,1.35177475650182
+20251101,1,PD04722MM,2025-11-01,2025,11,T4,1.36861256988846
+20251201,1,PD04722MM,2025-12-01,2025,12,T4,1.50879973918667
+20260101,1,PD04722MM,2026-01-01,2026,1,T1,1.70091694832201
+20260201,1,PD04722MM,2026-02-01,2026,2,T1,2.21416625767848
+20260301,1,PD04722MM,2026-03-01,2026,3,T1,3.80454581291585
+20260401,1,PD04722MM,2026-04-01,2026,4,T2,4.01414363472928
+20260501,1,PD04722MM,2026-05-01,2026,5,T2,3.90505240621645
+20260601,1,PD04722MM,2026-06-01,2026,6,T2,4.00890965651766
+20200101,2,PN01206PM,2020-01-01,2020,1,T1,3.32869090909091
+20200201,2,PN01206PM,2020-02-01,2020,2,T1,3.39216
+20200301,2,PN01206PM,2020-03-01,2020,3,T1,3.49474090909091
+20200401,2,PN01206PM,2020-04-01,2020,4,T2,3.400795
+20200501,2,PN01206PM,2020-05-01,2020,5,T2,3.42355
+20200601,2,PN01206PM,2020-06-01,2020,6,T2,3.4724
+20200701,2,PN01206PM,2020-07-01,2020,7,T3,3.51863181818182
+20200801,2,PN01206PM,2020-08-01,2020,8,T3,3.56547619047619
+20200901,2,PN01206PM,2020-09-01,2020,9,T3,3.55649545454546
+20201001,2,PN01206PM,2020-10-01,2020,10,T4,3.59712272727273
+20201101,2,PN01206PM,2020-11-01,2020,11,T4,3.61011904761905
+20201201,2,PN01206PM,2020-12-01,2020,12,T4,3.60415714285714
+20210101,2,PN01206PM,2021-01-01,2021,1,T1,3.62586
+20210201,2,PN01206PM,2021-02-01,2021,2,T1,3.646365
+20210301,2,PN01206PM,2021-03-01,2021,3,T1,3.71102173913043
+20210401,2,PN01206PM,2021-04-01,2021,4,T2,3.701585
+20210501,2,PN01206PM,2021-05-01,2021,5,T2,3.77585238095238
+20210601,2,PN01206PM,2021-06-01,2021,6,T2,3.91391904761905
+20210701,2,PN01206PM,2021-07-01,2021,7,T3,3.944495
+20210801,2,PN01206PM,2021-08-01,2021,8,T3,4.08889523809524
+20210901,2,PN01206PM,2021-09-01,2021,9,T3,4.10893181818182
+20211001,2,PN01206PM,2021-10-01,2021,10,T4,4.015
+20211101,2,PN01206PM,2021-11-01,2021,11,T4,4.02166190476191
+20211201,2,PN01206PM,2021-12-01,2021,12,T4,4.03878636363636
+20220101,2,PN01206PM,2022-01-01,2022,1,T1,3.8898
+20220201,2,PN01206PM,2022-02-01,2022,2,T1,3.79376
+20220301,2,PN01206PM,2022-03-01,2022,3,T1,3.7408
+20220401,2,PN01206PM,2022-04-01,2022,4,T2,3.7433
+20220501,2,PN01206PM,2022-05-01,2022,5,T2,3.75959090909091
+20220601,2,PN01206PM,2022-06-01,2022,6,T2,3.75017619047619
+20220701,2,PN01206PM,2022-07-01,2022,7,T3,3.90534210526316
+20220801,2,PN01206PM,2022-08-01,2022,8,T3,3.87566363636364
+20220901,2,PN01206PM,2022-09-01,2022,9,T3,3.90151363636364
+20221001,2,PN01206PM,2022-10-01,2022,10,T4,3.98063333333333
+20221101,2,PN01206PM,2022-11-01,2022,11,T4,3.87850476190476
+20221201,2,PN01206PM,2022-12-01,2022,12,T4,3.83176
+20230101,2,PN01206PM,2023-01-01,2023,1,T1,3.83604761904762
+20230201,2,PN01206PM,2023-02-01,2023,2,T1,3.84237
+20230301,2,PN01206PM,2023-03-01,2023,3,T1,3.78063043478261
+20230401,2,PN01206PM,2023-04-01,2023,4,T2,3.76597222222222
+20230501,2,PN01206PM,2023-05-01,2023,5,T2,3.68984545454545
+20230601,2,PN01206PM,2023-06-01,2023,6,T2,3.65203333333333
+20230701,2,PN01206PM,2023-07-01,2023,7,T3,3.602405
+20230801,2,PN01206PM,2023-08-01,2023,8,T3,3.69844545454545
+20230901,2,PN01206PM,2023-09-01,2023,9,T3,3.73200952380952
+20231001,2,PN01206PM,2023-10-01,2023,10,T4,3.84701363636364
+20231101,2,PN01206PM,2023-11-01,2023,11,T4,3.76209523809524
+20231201,2,PN01206PM,2023-12-01,2023,12,T4,3.73508947368421
+20240101,2,PN01206PM,2024-01-01,2024,1,T1,3.74190952380952
+20240201,2,PN01206PM,2024-02-01,2024,2,T1,3.82895238095238
+20240301,2,PN01206PM,2024-03-01,2024,3,T1,3.71003684210526
+20240401,2,PN01206PM,2024-04-01,2024,4,T2,3.7167
+20240501,2,PN01206PM,2024-05-01,2024,5,T2,3.73287727272727
+20240601,2,PN01206PM,2024-06-01,2024,6,T2,3.78837894736842
+20240701,2,PN01206PM,2024-07-01,2024,7,T3,3.76611
+20240801,2,PN01206PM,2024-08-01,2024,8,T3,3.742925
+20240901,2,PN01206PM,2024-09-01,2024,9,T3,3.76989523809524
+20241001,2,PN01206PM,2024-10-01,2024,10,T4,3.75581363636364
+20241101,2,PN01206PM,2024-11-01,2024,11,T4,3.780265
+20241201,2,PN01206PM,2024-12-01,2024,12,T4,3.73655789473684
+20250101,2,PN01206PM,2025-01-01,2025,1,T1,3.74825454545455
+20250201,2,PN01206PM,2025-02-01,2025,2,T1,3.69817
+20250301,2,PN01206PM,2025-03-01,2025,3,T1,3.65344761904762
+20250401,2,PN01206PM,2025-04-01,2025,4,T2,3.70126
+20250501,2,PN01206PM,2025-05-01,2025,5,T2,3.66086190476191
+20250601,2,PN01206PM,2025-06-01,2025,6,T2,3.60388571428572
+20250701,2,PN01206PM,2025-07-01,2025,7,T3,3.557945
+20250801,2,PN01206PM,2025-08-01,2025,8,T3,3.54367
+20250901,2,PN01206PM,2025-09-01,2025,9,T3,3.50311818181818
+20251001,2,PN01206PM,2025-10-01,2025,10,T4,3.41502727272727
+20251101,2,PN01206PM,2025-11-01,2025,11,T4,3.373755
+20251201,2,PN01206PM,2025-12-01,2025,12,T4,3.36778947368421
+20260101,2,PN01206PM,2026-01-01,2026,1,T1,3.357325
+20260201,2,PN01206PM,2026-02-01,2026,2,T1,3.357735
+20260301,2,PN01206PM,2026-03-01,2026,3,T1,3.45155
+20260401,2,PN01206PM,2026-04-01,2026,4,T2,3.45384
+20260501,2,PN01206PM,2026-05-01,2026,5,T2,3.439455
+20260601,2,PN01206PM,2026-06-01,2026,6,T2,3.40863333333333
+20200101,3,PN01271PM,2020-01-01,2020,1,T1,3.30328579210706
+20200201,3,PN01271PM,2020-02-01,2020,2,T1,4.57990369607169
+20200301,3,PN01271PM,2020-03-01,2020,3,T1,-17.6060068593198
+20200401,3,PN01271PM,2020-04-01,2020,4,T2,-39.276985716532
+20200501,3,PN01271PM,2020-05-01,2020,5,T2,-32.727246502532
+20200601,3,PN01271PM,2020-06-01,2020,6,T2,-18.1034455760272
+20200701,3,PN01271PM,2020-07-01,2020,7,T3,-11.0192247908879
+20200801,3,PN01271PM,2020-08-01,2020,8,T3,-9.1655146146572
+20200901,3,PN01271PM,2020-09-01,2020,9,T3,-5.86720943430298
+20201001,3,PN01271PM,2020-10-01,2020,10,T4,-3.25483448382076
+20201101,3,PN01271PM,2020-11-01,2020,11,T4,-2.10701610176808
+20201201,3,PN01271PM,2020-12-01,2020,12,T4,1.03032310851424
+20210101,3,PN01271PM,2021-01-01,2021,1,T1,-0.997341320021622
+20210201,3,PN01271PM,2021-02-01,2021,2,T1,-3.82132610746839
+20210301,3,PN01271PM,2021-03-01,2021,3,T1,19.8682137808316
+20210401,3,PN01271PM,2021-04-01,2021,4,T2,59.8947623291564
+20210501,3,PN01271PM,2021-05-01,2021,5,T2,48.5993221115384
+20210601,3,PN01271PM,2021-06-01,2021,6,T2,23.4110933239464
+20210701,3,PN01271PM,2021-07-01,2021,7,T3,13.3172829771082
+20210801,3,PN01271PM,2021-08-01,2021,8,T3,12.0115996029552
+20210901,3,PN01271PM,2021-09-01,2021,9,T3,10.0310469174935
+20211001,3,PN01271PM,2021-10-01,2021,10,T4,4.76941227826566
+20211101,3,PN01271PM,2021-11-01,2021,11,T4,3.75939452387283
+20211201,3,PN01271PM,2021-12-01,2021,12,T4,2.03857895343596
+20220101,3,PN01271PM,2022-01-01,2022,1,T1,3.07233820894321
+20220201,3,PN01271PM,2022-02-01,2022,2,T1,4.84817141819692
+20220301,3,PN01271PM,2022-03-01,2022,3,T1,3.90609081039353
+20220401,3,PN01271PM,2022-04-01,2022,4,T2,4.05956735448008
+20220501,3,PN01271PM,2022-05-01,2022,5,T2,2.55561245088643
+20220601,3,PN01271PM,2022-06-01,2022,6,T2,3.73340672963062
+20220701,3,PN01271PM,2022-07-01,2022,7,T3,1.99929995548116
+20220801,3,PN01271PM,2022-08-01,2022,8,T3,2.00923450710866
+20220901,3,PN01271PM,2022-09-01,2022,9,T3,2.1575485636082
+20221001,3,PN01271PM,2022-10-01,2022,10,T4,2.60004901094656
+20221101,3,PN01271PM,2022-11-01,2022,11,T4,2.19611119378252
+20221201,3,PN01271PM,2022-12-01,2022,12,T4,1.28549481803624
+20230101,3,PN01271PM,2023-01-01,2023,1,T1,-0.57827332938386
+20230201,3,PN01271PM,2023-02-01,2023,2,T1,-0.349595705654184
+20230301,3,PN01271PM,2023-03-01,2023,3,T1,0.832314576504402
+20230401,3,PN01271PM,2023-04-01,2023,4,T2,0.691224584296832
+20230501,3,PN01271PM,2023-05-01,2023,5,T2,-1.17093071981193
+20230601,3,PN01271PM,2023-06-01,2023,6,T2,-0.695984429638633
+20230701,3,PN01271PM,2023-07-01,2023,7,T3,-1.01583755810768
+20230801,3,PN01271PM,2023-08-01,2023,8,T3,0.0614750474334791
+20230901,3,PN01271PM,2023-09-01,2023,9,T3,-0.906756202466222
+20231001,3,PN01271PM,2023-10-01,2023,10,T4,-0.682307691141691
+20231101,3,PN01271PM,2023-11-01,2023,11,T4,0.701153437700412
+20231201,3,PN01271PM,2023-12-01,2023,12,T4,-0.945679280085103
+20240101,3,PN01271PM,2024-01-01,2024,1,T1,1.83097461976354
+20240201,3,PN01271PM,2024-02-01,2024,2,T1,3.16241000807473
+20240301,3,PN01271PM,2024-03-01,2024,3,T1,-0.409690120959002
+20240401,3,PN01271PM,2024-04-01,2024,4,T2,5.52986981371346
+20240501,3,PN01271PM,2024-05-01,2024,5,T2,5.70691310837814
+20240601,3,PN01271PM,2024-06-01,2024,6,T2,0.370585322038706
+20240701,3,PN01271PM,2024-07-01,2024,7,T3,4.85868197288225
+20240801,3,PN01271PM,2024-08-01,2024,8,T3,3.97028100948149
+20240901,3,PN01271PM,2024-09-01,2024,9,T3,3.49053235679599
+20241001,3,PN01271PM,2024-10-01,2024,10,T4,3.83110341773776
+20241101,3,PN01271PM,2024-11-01,2024,11,T4,4.38200682962149
+20241201,3,PN01271PM,2024-12-01,2024,12,T4,5.06622215564914
+20250101,3,PN01271PM,2025-01-01,2025,1,T1,4.41262088599568
+20250201,3,PN01271PM,2025-02-01,2025,2,T1,2.92933006009058
+20250301,3,PN01271PM,2025-03-01,2025,3,T1,4.79463896734591
+20250401,3,PN01271PM,2025-04-01,2025,4,T2,1.38779863585964
+20250501,3,PN01271PM,2025-05-01,2025,5,T2,2.30761759528941
+20250601,3,PN01271PM,2025-06-01,2025,6,T2,4.89663045192383
+20250701,3,PN01271PM,2025-07-01,2025,7,T3,3.57711849445283
+20250801,3,PN01271PM,2025-08-01,2025,8,T3,3.26905133539782
+20250901,3,PN01271PM,2025-09-01,2025,9,T3,4.45219309609595
+20251001,3,PN01271PM,2025-10-01,2025,10,T4,4.06273582845768
+20251101,3,PN01271PM,2025-11-01,2025,11,T4,1.57061772802405
+20251201,3,PN01271PM,2025-12-01,2025,12,T4,3.83217007992646
+20260101,3,PN01271PM,2026-01-01,2026,1,T1,3.66627706987421
+20260201,3,PN01271PM,2026-02-01,2026,2,T1,3.71055925630505
+20260301,3,PN01271PM,2026-03-01,2026,3,T1,3.21376281023424
+20260401,3,PN01271PM,2026-04-01,2026,4,T2,3.72734991620123
+20260501,3,PN01271PM,2026-05-01,2026,5,T2,
+20260601,3,PN01271PM,2026-06-01,2026,6,T2,
+20200101,4,PN01273PM,2020-01-01,2020,1,T1,2.25
+20200201,4,PN01273PM,2020-02-01,2020,2,T1,2.25
+20200301,4,PN01273PM,2020-03-01,2020,3,T1,1.25
+20200401,4,PN01273PM,2020-04-01,2020,4,T2,0.25
+20200501,4,PN01273PM,2020-05-01,2020,5,T2,0.25
+20200601,4,PN01273PM,2020-06-01,2020,6,T2,0.25
+20200701,4,PN01273PM,2020-07-01,2020,7,T3,0.25
+20200801,4,PN01273PM,2020-08-01,2020,8,T3,0.25
+20200901,4,PN01273PM,2020-09-01,2020,9,T3,0.25
+20201001,4,PN01273PM,2020-10-01,2020,10,T4,0.25
+20201101,4,PN01273PM,2020-11-01,2020,11,T4,0.25
+20201201,4,PN01273PM,2020-12-01,2020,12,T4,0.25
+20210101,4,PN01273PM,2021-01-01,2021,1,T1,0.25
+20210201,4,PN01273PM,2021-02-01,2021,2,T1,0.25
+20210301,4,PN01273PM,2021-03-01,2021,3,T1,0.25
+20210401,4,PN01273PM,2021-04-01,2021,4,T2,0.25
+20210501,4,PN01273PM,2021-05-01,2021,5,T2,0.25
+20210601,4,PN01273PM,2021-06-01,2021,6,T2,0.25
+20210701,4,PN01273PM,2021-07-01,2021,7,T3,0.25
+20210801,4,PN01273PM,2021-08-01,2021,8,T3,0.5
+20210901,4,PN01273PM,2021-09-01,2021,9,T3,1.0
+20211001,4,PN01273PM,2021-10-01,2021,10,T4,1.5
+20211101,4,PN01273PM,2021-11-01,2021,11,T4,2.0
+20211201,4,PN01273PM,2021-12-01,2021,12,T4,2.5
+20220101,4,PN01273PM,2022-01-01,2022,1,T1,3.0
+20220201,4,PN01273PM,2022-02-01,2022,2,T1,3.5
+20220301,4,PN01273PM,2022-03-01,2022,3,T1,4.0
+20220401,4,PN01273PM,2022-04-01,2022,4,T2,4.5
+20220501,4,PN01273PM,2022-05-01,2022,5,T2,5.0
+20220601,4,PN01273PM,2022-06-01,2022,6,T2,5.5
+20220701,4,PN01273PM,2022-07-01,2022,7,T3,6.0
+20220801,4,PN01273PM,2022-08-01,2022,8,T3,6.5
+20220901,4,PN01273PM,2022-09-01,2022,9,T3,6.75
+20221001,4,PN01273PM,2022-10-01,2022,10,T4,7.0
+20221101,4,PN01273PM,2022-11-01,2022,11,T4,7.25
+20221201,4,PN01273PM,2022-12-01,2022,12,T4,7.5
+20230101,4,PN01273PM,2023-01-01,2023,1,T1,7.75
+20230201,4,PN01273PM,2023-02-01,2023,2,T1,7.75
+20230301,4,PN01273PM,2023-03-01,2023,3,T1,7.75
+20230401,4,PN01273PM,2023-04-01,2023,4,T2,7.75
+20230501,4,PN01273PM,2023-05-01,2023,5,T2,7.75
+20230601,4,PN01273PM,2023-06-01,2023,6,T2,7.75
+20230701,4,PN01273PM,2023-07-01,2023,7,T3,7.75
+20230801,4,PN01273PM,2023-08-01,2023,8,T3,7.75
+20230901,4,PN01273PM,2023-09-01,2023,9,T3,7.5
+20231001,4,PN01273PM,2023-10-01,2023,10,T4,7.25
+20231101,4,PN01273PM,2023-11-01,2023,11,T4,7.0
+20231201,4,PN01273PM,2023-12-01,2023,12,T4,6.75
+20240101,4,PN01273PM,2024-01-01,2024,1,T1,6.5
+20240201,4,PN01273PM,2024-02-01,2024,2,T1,6.25
+20240301,4,PN01273PM,2024-03-01,2024,3,T1,6.25
+20240401,4,PN01273PM,2024-04-01,2024,4,T2,6.0
+20240501,4,PN01273PM,2024-05-01,2024,5,T2,5.75
+20240601,4,PN01273PM,2024-06-01,2024,6,T2,5.75
+20240701,4,PN01273PM,2024-07-01,2024,7,T3,5.75
+20240801,4,PN01273PM,2024-08-01,2024,8,T3,5.5
+20240901,4,PN01273PM,2024-09-01,2024,9,T3,5.25
+20241001,4,PN01273PM,2024-10-01,2024,10,T4,5.25
+20241101,4,PN01273PM,2024-11-01,2024,11,T4,5.0
+20241201,4,PN01273PM,2024-12-01,2024,12,T4,5.0
+20250101,4,PN01273PM,2025-01-01,2025,1,T1,4.75
+20250201,4,PN01273PM,2025-02-01,2025,2,T1,4.75
+20250301,4,PN01273PM,2025-03-01,2025,3,T1,4.75
+20250401,4,PN01273PM,2025-04-01,2025,4,T2,4.75
+20250501,4,PN01273PM,2025-05-01,2025,5,T2,4.5
+20250601,4,PN01273PM,2025-06-01,2025,6,T2,4.5
+20250701,4,PN01273PM,2025-07-01,2025,7,T3,4.5
+20250801,4,PN01273PM,2025-08-01,2025,8,T3,4.5
+20250901,4,PN01273PM,2025-09-01,2025,9,T3,4.25
+20251001,4,PN01273PM,2025-10-01,2025,10,T4,4.25
+20251101,4,PN01273PM,2025-11-01,2025,11,T4,4.25
+20251201,4,PN01273PM,2025-12-01,2025,12,T4,4.25
+20260101,4,PN01273PM,2026-01-01,2026,1,T1,4.25
+20260201,4,PN01273PM,2026-02-01,2026,2,T1,4.25
+20260301,4,PN01273PM,2026-03-01,2026,3,T1,4.25
+20260401,4,PN01273PM,2026-04-01,2026,4,T2,4.25
+20260501,4,PN01273PM,2026-05-01,2026,5,T2,4.25
+20260601,4,PN01273PM,2026-06-01,2026,6,T2,4.25
+20200101,5,PN01728AM,2020-01-01,2020,1,T1,0.0538080667322616
+20200201,5,PN01728AM,2020-02-01,2020,2,T1,0.142172034360178
+20200301,5,PN01728AM,2020-03-01,2020,3,T1,0.645999987966259
+20200401,5,PN01728AM,2020-04-01,2020,4,T2,0.104582684852522
+20200501,5,PN01728AM,2020-05-01,2020,5,T2,0.204153570879042
+20200601,5,PN01728AM,2020-06-01,2020,6,T2,-0.266096854987984
+20200701,5,PN01728AM,2020-07-01,2020,7,T3,0.462688397344215
+20200801,5,PN01728AM,2020-08-01,2020,8,T3,-0.110238965197723
+20200901,5,PN01728AM,2020-09-01,2020,9,T3,0.136353971354613
+20201001,5,PN01728AM,2020-10-01,2020,10,T4,0.0167755516523417
+20201101,5,PN01728AM,2020-11-01,2020,11,T4,0.520479581391504
+20201201,5,PN01728AM,2020-12-01,2020,12,T4,0.0487327395330378
+20210101,5,PN01728AM,2021-01-01,2021,1,T1,0.742901704166242
+20210201,5,PN01728AM,2021-02-01,2021,2,T1,-0.125265562868538
+20210301,5,PN01728AM,2021-03-01,2021,3,T1,0.839468767410369
+20210401,5,PN01728AM,2021-04-01,2021,4,T2,-0.104691802721501
+20210501,5,PN01728AM,2021-05-01,2021,5,T2,0.266557522263624
+20210601,5,PN01728AM,2021-06-01,2021,6,T2,0.51967163414861
+20210701,5,PN01728AM,2021-07-01,2021,7,T3,1.00753906510749
+20210801,5,PN01728AM,2021-08-01,2021,8,T3,0.98493531236659
+20210901,5,PN01728AM,2021-09-01,2021,9,T3,0.40042251687241
+20211001,5,PN01728AM,2021-10-01,2021,10,T4,0.58366506925955
+20211101,5,PN01728AM,2021-11-01,2021,11,T4,0.358183580426998
+20211201,5,PN01728AM,2021-12-01,2021,12,T4,0.782835268325123
+20220101,5,PN01728AM,2022-01-01,2022,1,T1,0.0372679999999974
+20220201,5,PN01728AM,2022-02-01,2022,2,T1,0.311455926605271
+20220301,5,PN01728AM,2022-03-01,2022,3,T1,1.48265988924236
+20220401,5,PN01728AM,2022-04-01,2022,4,T2,0.961893177341858
+20220501,5,PN01728AM,2022-05-01,2022,5,T2,0.384024966018986
+20220601,5,PN01728AM,2022-06-01,2022,6,T2,1.19062710636316
+20220701,5,PN01728AM,2022-07-01,2022,7,T3,0.940891085039107
+20220801,5,PN01728AM,2022-08-01,2022,8,T3,0.666542107665968
+20220901,5,PN01728AM,2022-09-01,2022,9,T3,0.522557852684368
+20221001,5,PN01728AM,2022-10-01,2022,10,T4,0.347652348101841
+20221101,5,PN01728AM,2022-11-01,2022,11,T4,0.517639656505263
+20221201,5,PN01728AM,2022-12-01,2022,12,T4,0.793924170395989
+20230101,5,PN01728AM,2023-01-01,2023,1,T1,0.226446521871514
+20230201,5,PN01728AM,2023-02-01,2023,2,T1,0.29452251053137
+20230301,5,PN01728AM,2023-03-01,2023,3,T1,1.25348677152025
+20230401,5,PN01728AM,2023-04-01,2023,4,T2,0.556251880069387
+20230501,5,PN01728AM,2023-05-01,2023,5,T2,0.31786146413237
+20230601,5,PN01728AM,2023-06-01,2023,6,T2,-0.152769746155551
+20230701,5,PN01728AM,2023-07-01,2023,7,T3,0.391066276983018
+20230801,5,PN01728AM,2023-08-01,2023,8,T3,0.376132603479856
+20230901,5,PN01728AM,2023-09-01,2023,9,T3,0.0164026333286269
+20231001,5,PN01728AM,2023-10-01,2023,10,T4,-0.322447443370826
+20231101,5,PN01728AM,2023-11-01,2023,11,T4,-0.163060842314584
+20231201,5,PN01728AM,2023-12-01,2023,12,T4,0.405777961086682
+20240101,5,PN01728AM,2024-01-01,2024,1,T1,0.0192113272793558
+20240201,5,PN01728AM,2024-02-01,2024,2,T1,0.557510800936321
+20240301,5,PN01728AM,2024-03-01,2024,3,T1,1.00938516188575
+20240401,5,PN01728AM,2024-04-01,2024,4,T2,-0.0516715997229469
+20240501,5,PN01728AM,2024-05-01,2024,5,T2,-0.0907064485030323
+20240601,5,PN01728AM,2024-06-01,2024,6,T2,0.121741927959431
+20240701,5,PN01728AM,2024-07-01,2024,7,T3,0.236268738691571
+20240801,5,PN01728AM,2024-08-01,2024,8,T3,0.284170528141876
+20240901,5,PN01728AM,2024-09-01,2024,9,T3,-0.237560474773851
+20241001,5,PN01728AM,2024-10-01,2024,10,T4,-0.0931035230159262
+20241101,5,PN01728AM,2024-11-01,2024,11,T4,0.0941530377317251
+20241201,5,PN01728AM,2024-12-01,2024,12,T4,0.105667996950954
+20250101,5,PN01728AM,2025-01-01,2025,1,T1,-0.0933179134509413
+20250201,5,PN01728AM,2025-02-01,2025,2,T1,0.188012094871704
+20250301,5,PN01728AM,2025-03-01,2025,3,T1,0.810159321766145
+20250401,5,PN01728AM,2025-04-01,2025,4,T2,0.31806633832046
+20250501,5,PN01728AM,2025-05-01,2025,5,T2,-0.0564746187563057
+20250601,5,PN01728AM,2025-06-01,2025,6,T2,0.128679643778829
+20250701,5,PN01728AM,2025-07-01,2025,7,T3,0.231431002364371
+20250801,5,PN01728AM,2025-08-01,2025,8,T3,-0.29025398690341
+20250901,5,PN01728AM,2025-09-01,2025,9,T3,0.0111517897177685
+20251001,5,PN01728AM,2025-10-01,2025,10,T4,-0.0996274056654658
+20251101,5,PN01728AM,2025-11-01,2025,11,T4,0.110781919406383
+20251201,5,PN01728AM,2025-12-01,2025,12,T4,0.244108583947482
+20260101,5,PN01728AM,2026-01-01,2026,1,T1,0.0957671016980487
+20260201,5,PN01728AM,2026-02-01,2026,2,T1,0.693626297343638
+20260301,5,PN01728AM,2026-03-01,2026,3,T1,2.37869353004195
+20260401,5,PN01728AM,2026-04-01,2026,4,T2,0.5206244057768
+20260501,5,PN01728AM,2026-05-01,2026,5,T2,-0.161296536091238
+20260601,5,PN01728AM,2026-06-01,2026,6,T2,0.228762258659176

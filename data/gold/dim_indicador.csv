@@ -1,6 +1,6 @@
 ﻿indicador_id,codigo_indicador,nombre_indicador,categoria,unidad,frecuencia,fuente
-1,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,Producto bruto interno y demanda interna (variación porcentual interanual) - PBI,Otros,No definido,Mensual,BCRP
-2,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,Tasas de interés del Banco Central de Reserva - Tasa de Referencia de la Política Monetaria,Otros,No definido,Mensual,BCRP
-3,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Venta,Otros,No definido,Mensual,BCRP
-4,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,Índice de precios Lima Metropolitana (var% 12 meses) - IPC,Otros,No definido,Mensual,BCRP
-5,Índice de precios Lima Metropolitana (var% mensual) - IPC,Índice de precios Lima Metropolitana (var% mensual) - IPC,Otros,No definido,Mensual,BCRP
+1,PD04722MM,Tasa de referencia,Política monetaria,Porcentaje,Mensual,BCRP
+2,PN01206PM,Tipo de cambio promedio mensual,Tipo de cambio,Soles por dólar,Mensual,BCRP
+3,PN01271PM,Inflación mensual,Inflación,Porcentaje,Mensual,BCRP
+4,PN01273PM,Inflación anual,Inflación,Porcentaje,Mensual,BCRP
+5,PN01728AM,PBI variación interanual,Actividad económica,Porcentaje,Mensual,BCRP
