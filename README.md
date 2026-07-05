@@ -244,7 +244,7 @@ Incluye:
 - Gráfico de evolución mensual de indicadores.
 - Segmentadores por año e indicador.
 
-![Resumen económico](images/dashboard_resumen.png)
+![Resumen económico](https://raw.githubusercontent.com/enleam/peru-economic-dashboard-bcrp/main/images/dashboard_resumen.PNG)
 
 ---
 
@@ -260,7 +260,7 @@ Incluye:
 - Comparación entre inflación mensual e inflación anual.
 - Promedios anuales.
 
-![Inflación](images/dashboard_inflacion.png)
+![Inflación](https://raw.githubusercontent.com/enleam/peru-economic-dashboard-bcrp/main/images/dashboard_inflacion.PNG)
 
 ---
 
@@ -276,7 +276,7 @@ Incluye:
 - Evolución de la tasa de referencia.
 - Comparación entre tipo de cambio y política monetaria.
 
-![Tipo de cambio y tasa de referencia](images/dashboard_tipo_cambio.png)
+![Tipo de cambio y tasa de referencia](https://raw.githubusercontent.com/enleam/peru-economic-dashboard-bcrp/main/images/dashboard_tipo_cambio.PNG)
 
 ---
 
@@ -292,7 +292,7 @@ Incluye:
 - Comparación entre PBI y tasa de referencia.
 - Tabla de detalle mensual.
 
-![PBI y actividad económica](images/dashboard_pbi.png)
+![PBI y actividad económica](https://raw.githubusercontent.com/enleam/peru-economic-dashboard-bcrp/main/images/dashboard_pbi.PNG)
 
 ---
 
